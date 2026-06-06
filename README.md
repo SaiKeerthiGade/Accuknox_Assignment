@@ -117,7 +117,6 @@ Accuknox_Assignment/
 │
 ├── manage.py
 ├── README.md
-├── requirements.txt
 ├── config/
 ├── signals_app/
 └── rectangle_app/
