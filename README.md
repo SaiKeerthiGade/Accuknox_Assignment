@@ -71,7 +71,7 @@ Signal Started
 
 Signal Thread ID: 7596
 
-Signal sees record count = 22
+Signal sees record count = 24
 
 Signal Completed
 
@@ -83,7 +83,7 @@ Transaction Rolled Back
 Browser Output:
 
 ```text
-Final Database Count = 21
+Final Database Count = 23
 ```
 
 **Conclusion:** The signal could see uncommitted data before rollback, proving it executed in the same transaction context.
