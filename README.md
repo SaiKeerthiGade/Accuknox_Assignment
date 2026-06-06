@@ -113,6 +113,7 @@ class Rectangle:
 {'length': 10}
 {'width': 5}
 ```
+<img width="1300" height="362" alt="image" src="https://github.com/user-attachments/assets/6d399400-4d6d-4f62-8034-3f0b2293ce57" />
 
 ---
 
