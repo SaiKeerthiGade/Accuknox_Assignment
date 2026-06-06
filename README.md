@@ -27,11 +27,11 @@ This repository contains solutions for the Accuknox Django Trainee Assignment.
 **Output:**
 
 ```text
-Caller Thread ID : 2736
+Caller Thread ID : <same thread as signal>
 
 Signal Started
 
-Signal Thread ID : 2736
+Signal Thread ID : <same thread as caller>
 
 Signal Completed
 
@@ -52,8 +52,8 @@ Request Completed in 5.01 seconds
 **Output:**
 
 ```text
-Caller Thread ID : 2736
-Signal Thread ID : 2736
+Caller Thread ID : <same thread as signal>
+Signal Thread ID : <same thread as caller>
 ```
 
 **Conclusion:** Both thread IDs are identical, proving the signal executes in the same thread as the caller.
