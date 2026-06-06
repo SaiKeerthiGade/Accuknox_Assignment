@@ -133,22 +133,22 @@ Accuknox_Assignment/
 
 1. Create a virtual environment
 
-python -m venv venv
+ python -m venv venv
 
 2. Activate virtual environment
 
-venv\Scripts\activate
+ venv\Scripts\activate
 
 3. Install dependencies
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 4. Run migrations
 
-python manage.py makemigrations
-python manage.py migrate
+ python manage.py makemigrations
+ python manage.py migrate
 
 5. Start the server
 
-python manage.py runserver
+ python manage.py runserver
 
