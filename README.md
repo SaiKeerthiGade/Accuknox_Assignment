@@ -90,6 +90,9 @@ Final Database Count = 21
 
 ---
 
+<img width="1606" height="958" alt="image" src="https://github.com/user-attachments/assets/5cbdf821-4d92-4ff5-95ee-7c110c9d3af3" />
+
+
 ## Rectangle Class
 
 ```python
