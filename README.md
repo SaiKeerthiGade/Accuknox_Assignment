@@ -42,6 +42,9 @@ Request Completed in 5.01 seconds
 
 ---
 
+<img width="1631" height="971" alt="Screenshot 2026-06-06 082446" src="https://github.com/user-attachments/assets/9e7e0927-1d63-4d0f-bad3-e6c3037658ef" />
+
+
 ### Question 2: Do Django signals run in the same thread as the caller?
 
 **Answer:** Yes.
@@ -122,5 +125,5 @@ Accuknox_Assignment/
 └── rectangle_app/
 ```
 
-<img width="1631" height="971" alt="Screenshot 2026-06-06 082446" src="https://github.com/user-attachments/assets/243b4d91-fd70-4161-8b0f-0457027d822e" />
+
 
