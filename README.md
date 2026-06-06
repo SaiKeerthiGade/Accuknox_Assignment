@@ -121,3 +121,6 @@ Accuknox_Assignment/
 ├── signals_app/
 └── rectangle_app/
 ```
+
+<img width="1631" height="971" alt="Screenshot 2026-06-06 082446" src="https://github.com/user-attachments/assets/243b4d91-fd70-4161-8b0f-0457027d822e" />
+
